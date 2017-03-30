@@ -3,7 +3,6 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "firegento/fastsimpleimport2": "dev-master",
         "magentoese/module-venia-setup": "dev-master"
         },
     "autoload": {
